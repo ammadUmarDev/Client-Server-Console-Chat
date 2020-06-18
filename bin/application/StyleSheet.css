@@ -1,0 +1,25 @@
+.side-bar-small{
+	-fx-background-color: #4E327C;
+
+}
+
+.side-bar{
+	-fx-background-color: #D5D6F2;
+	}
+
+.top-bar{
+	-fx-background-color: #4E327C;
+	-fx-border-color:white ;
+}
+
+.sidebar-btn-icon{
+	-fx-fill: grey;
+}
+
+.sidebar-btn-text{
+	-fx-fill: grey;
+}
+
+.palletMain{
+	-fx-background-color: #9d271e;
+}
